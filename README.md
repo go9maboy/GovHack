@@ -11,7 +11,7 @@ Current Support System expects people to know their current mental status and ex
 This can be very daunting task for those who are not feeling 100% mentally.
 
 In constrast, the Cuddle first estimates 5 most commonly occuring mental diseases based on user's age, gender, and ethnicity.
-It displays and explain these potential mental diseases to the user to increase their awareness and reduce their shamefulness.
+It displays and explains these potential mental diseases to the users for increasing their awareness and reducing their shamefulness.
 Based on the estimate, it recommands a simple customized survey to diagonos the disease better.
 Then, it finally provides the right support service for the patient quickly.
 
