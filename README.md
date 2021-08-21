@@ -1,7 +1,7 @@
 # GovHack by Team LockDown
 <img src="logo1.png" alt="My cool logo"/>
 
-### Easier Support System That Reaching Out To You First
+### Simple, Easy, and Friendly Support System That Reaching Out To You First
 
 <img src="Screen Shot.png" alt="AppScreenshot"/>
 
