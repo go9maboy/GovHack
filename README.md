@@ -21,6 +21,15 @@ Then, it finally provides the right support service to the patient.
 Cuddle makes statistical prediction based on previously collected health dataset.
 The research shows there are strong dependency between mental disease and person's age, gender, ethnicity, and etc.
 
+### Used Dataset
+- 2018 Census population and dwelling counts
+Used to obtain age group distribution, gender group distribution, and ethnic group distribution in NZ. Used those and health datasets to calculate the probability of suffering from mental diseases given age, gender, and ethnicity.
+[link](https://www.stats.govt.nz/information-releases/2018-census-population-and-dwelling-counts)
+
+- Mental Health and Addiction 2018 - 2019
+Used to extract the conditional probabilities of suffering from 17 listed mental disorders based on age, gender, and ethnicity.
+[link](https://www.health.govt.nz/publication/mental-health-and-addiction-service-use-2018-19-tables)
+
 ## Challenges
 1. Mining from a vast dataset and reformating the necessary data from NZ Health organizations and NZ Census
 2. Extracting the meanings out by manipulating and combining multiple datasets.
