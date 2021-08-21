@@ -1,16 +1,17 @@
 # GovHack by Team LockDown
 <img src="logo1.png" alt="My cool logo"/>
-## Cuddle
+
 ### Easier Support System That Reaching Out To You First
 
 <img src="Screen Shot.png" alt="AppScreenshot"/>
+
 Cuddle is a mental health service that is design to guide our citizen to find a right service quickly and easily.
 
 Current Support System expects people to know their current mental status and expect to search for a right sevice themself.
 This can be very daunting task for those who are not feeling 100% mentally.
 
-In constrast, our Cuddle first estimate most commonly occuring mental diseases based on user's age, gender, and ethnicity.
-It displays and explain these potential mental diseases.
+In constrast, the Cuddle first estimates 5 most commonly occuring mental diseases based on user's age, gender, and ethnicity.
+It displays and explain these potential mental diseases to the user to increase their awareness and reduce their shamefulness.
 Based on the estimate, it recommands a simple customized survey to diagonos the disease better.
 Then, it finally provides the right support service for the patient quickly.
 
