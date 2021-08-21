@@ -3,6 +3,7 @@
 Cuddle - Easier Support System That Reaching Out To You First
 
 ## Application Overview
+<img src="Screen Shot.png" alt="AppScreenshot"/>
 Cuddle is a mental health service that is design to guide our citizen to find a right service quickly and easily.
 
 Current Support System expects people to know their current mental status and expect to search for a right sevice themself.
