@@ -1,4 +1,5 @@
 # GovHack by Team LockDown
+<img src="logo1.png" alt="My cool logo"/>
 Cuddle - Easier Support System That Reaching Out To You First
 
 ## Application Overview
