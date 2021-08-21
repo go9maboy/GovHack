@@ -25,9 +25,15 @@ The research shows there are strong dependency between mental disease and person
 5. Effectively displayig information to the users and encourage them to take next diagonosis survey.
 
 ## Future works
-Due to access and availability limitation of publicly available dataset, we could not extend our prediction beyond age, gender, and ethnicity.
+Due to limited access and availability of publicly database, we could not extend our prediction beyond age, gender, and ethnicity.
 It could be interesting to include income, residential region, job status/type, and etc., into mental disease estimation.
 
+## Motivation
+In New Zealand, one in five people experience depression at some stage in their life.
+One of my own family member suffered depression. It is extremely common. Yet, it is often very hard to realize your current condition yourself.
+Even if you realize something is not right about your mental health, it is hard to get help due to lack of motivation, embarassment, misunderstanding, and fear of cost of treatment.
+
+Someone close to you
 What was your motivation?
 Why did you build this project?
 What problem does it solve?
