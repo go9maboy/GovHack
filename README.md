@@ -1,8 +1,8 @@
 # GovHack by Team LockDown
 <img src="logo1.png" alt="My cool logo"/>
-Cuddle - Easier Support System That Reaching Out To You First
+## Cuddle
+### Easier Support System That Reaching Out To You First
 
-## Application Overview
 <img src="Screen Shot.png" alt="AppScreenshot"/>
 Cuddle is a mental health service that is design to guide our citizen to find a right service quickly and easily.
 
