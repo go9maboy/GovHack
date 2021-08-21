@@ -22,11 +22,11 @@ Cuddle makes statistical prediction based on previously collected health dataset
 The research shows there are strong dependency between mental disease and person's age, gender, ethnicity, and etc.
 
 ### Used Dataset
-- 2018 Census population and dwelling counts
+- 2018 Census population and dwelling counts:
 Used to obtain age group distribution, gender group distribution, and ethnic group distribution in NZ. Used those and health datasets to calculate the probability of suffering from mental diseases given age, gender, and ethnicity.
 [link](https://www.stats.govt.nz/information-releases/2018-census-population-and-dwelling-counts)
 
-- Mental Health and Addiction 2018 - 2019
+- Mental Health and Addiction 2018 - 2019:
 Used to extract the conditional probabilities of suffering from 17 listed mental disorders based on age, gender, and ethnicity.
 [link](https://www.health.govt.nz/publication/mental-health-and-addiction-service-use-2018-19-tables)
 
@@ -52,3 +52,16 @@ In lockdown, we all need a good Cuddle.
 [Jun Junghyun](https://www.linkedin.com/in/junjunghyun), 
 Ahn Joo-Hyun, 
 and Changeun Noah Song
+
+## References
+We got lots of information from following links and publications
+
+[Health Navigator NZ](https://www.healthnavigator.org.nz/support/m/mental-health/), 
+[Ministry of Health NZ](https://www.health.govt.nz/your-health/services-and-support/health-care-services/mental-health-services/mental-health-services-where-get-help), 
+[Aunty Dee](https://www.auntydee.co.nz/tips-and-help), 
+[Mental Health and Addiction](https://mentalhealth.inquiry.govt.nz/inquiry-report/he-ara-oranga/chapter-3-what-we-think/3-2-our-conclusions/), 
+[New Zealand Government Health](https://www.govt.nz/browse/health/help-with-mental-health-and-addiction/), 
+[Mental Health Foundation](https://mentalhealth.org.nz/helplines), 
+[HHS.Gov](https://www.hhs.gov/hipaa/for-professionals/faq/mental-health/index.html), 
+[Safety Culture](https://blog.safetyculture.com/industry-trends/the-striking-role-mental-health-plays-in-construction), 
+[Small Steps](https://depression.org.nz/is-it-depression-anxiety/self-test/anxiety-test/#), 
