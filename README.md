@@ -20,8 +20,8 @@ Cuddle makes statistical prediction based on previously collected health dataset
 The research shows there are strong dependency between mental disease and person's age, gender, ethnicity, and etc.
 
 ## Challenges
-1. Minding and reformating the required data from a vast dataset from health organization
-2. Generating the meaning out by manipulating and combining multiple datasets.
+1. Mining from a vast dataset and reformating the necessary data from NZ Health organizations and NZ Census
+2. Extracting the meanings out by manipulating and combining multiple datasets.
 3. Use statistical techniques for predicting the diseases likelihood.
 4. Designing and implementing a simple and easy interface for the user.
 5. Effectively displayig information to the users and encourage them to take next diagonosis survey.
@@ -33,14 +33,7 @@ It could be interesting to include income, residential region, job status/type, 
 ## Motivation
 In New Zealand, one in five people experience depression at some stage in their life.
 One of my own family member suffered depression. It is extremely common. Yet, it is often very hard to realize your current condition yourself.
-Even if you realize something is not right about your mental health, it is hard to get help due to lack of motivation, embarassment, misunderstanding, and fear of cost of treatment.
-
-Someone close to you
-What was your motivation?
-Why did you build this project?
-What problem does it solve?
-What did you learn?
-What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here.
+Even if you realize something is not right about your mental health, it is hard to get help due to lack of motivation, embarassment, misunderstanding, and fear of cost of treatment. We envision that we can help more people by predicting their potential mental diseases and show you are not the only one suffering from these. 
 
 ## Team Members
 [Jun Junghyun](https://www.linkedin.com/in/junjunghyun), 
