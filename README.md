@@ -11,9 +11,11 @@ Current Support System expects people to know their current mental status and ex
 This can be very daunting task for those who are not feeling 100% mentally.
 
 In constrast, the Cuddle first estimates 5 most commonly occuring mental diseases based on user's age, gender, and ethnicity.
-It displays and explains these potential mental diseases to the users for increasing their awareness and reducing their shamefulness.
-Based on the estimate, it recommands a simple customized survey to diagonos the disease better.
-Then, it finally provides the right support service for the patient quickly.
+It displays percentage of people in your group who are also suffering from similar diseases. 
+This helps users to open up their feelings and emotion and encourage them to step out and try to get help. 
+Knowing you are not alone could help users to increase their awareness and reducing their shamefulness.
+Based on the estimate, Cuddle recommands a simple customized survey to diagonos the disease better.
+Then, it finally provides the right support service to the patient.
 
 ## Background
 Cuddle makes statistical prediction based on previously collected health dataset.
@@ -32,10 +34,12 @@ It could be interesting to include income, residential region, job status/type, 
 
 ## Motivation
 In New Zealand, one in five people experience depression at some stage in their life.
-One of my own family member suffered depression. It is extremely common. Yet, it is often very hard to realize your current condition yourself.
-Even if you realize something is not right about your mental health, it is hard to get help due to lack of motivation, embarassment, misunderstanding, and fear of cost of treatment. We envision that we can help more people by predicting their potential mental diseases and show you are not the only one suffering from these. 
+One of my own family member suffered severe depression. It is extremely common to feel depressed. Yet, it is often very hard to realize your current condition yourself.
+Even if you realize something is not right about your mental health, it is hard to get help due to lack of motivation, embarassment, misunderstanding, and fear of cost of treatment. We envision that we can help more people by predicting their potential mental diseases and show you are not the only one suffering from these. Then, we direct you to all freely available support or goverment subsidized services that can help you to get over this mental diseases and live your life again.
 
 ## Team Members
+We are a team LockDown.
+In lockdown, we all need a good Cuddle.
 [Jun Junghyun](https://www.linkedin.com/in/junjunghyun), 
 Ahn Joo-Hyun, 
 and Changeun Noah Song
