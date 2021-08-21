@@ -69,5 +69,5 @@ We got lots of information from following links and publications
 [New Zealand Medical Journal](https://www.nzma.org.nz/journal-articles/ethnic-inequality-in-diagnosis-with-depression-and-anxiety-disorders), 
 [NZ Govt Report](https://mentalhealth.inquiry.govt.nz/inquiry-report/he-ara-oranga/chapter-3-what-we-think/3-2-our-conclusions/), 
 [Media Release](https://coronialservices.justice.govt.nz/assets/Documents/Publications/Chief-Coroner-Suicide-Stats-2020-Media-Release.pdf), 
-[NZ Govt Report, Suicide](https://www.health.govt.nz/system/files/documents/publications/suicide_data_related_to_mental_health_service_users_2016_-final.pdf), 
+[NZ Govt Report-Suicide](https://www.health.govt.nz/system/files/documents/publications/suicide_data_related_to_mental_health_service_users_2016_-final.pdf), 
 [Journal of Mental Health](https://www.fmhs.auckland.ac.nz/assets/fmhs/som/psychmed/petrie/docs/2008%20J%20mental%20health%20.pdf)
