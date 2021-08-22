@@ -18,6 +18,11 @@ In New Zealand, one in five people experiences depression at some stage in their
 Cuddle makes a statistical prediction based on a previously collected health dataset.
 The research shows there is a strong dependency between mental disease and a person's age, gender, ethnicity, and etc.
 
+We use two datasets for this project.
+One is about Mental Health statistics. Another is about NZ age, gender, and ethnicity population from Census.
+Mental Health provide us with the probability of age group given the disease.
+We have rearranged it to get probability of getting disease given the age group using Bayes' theorem and probability of age group from Census dataset.
+
 ### Used Dataset
 - 2018 Census population and dwelling counts:
 Used to obtain age group distribution, gender group distribution, and ethnic group distribution in NZ. Used those and health datasets to calculate the probability of suffering from mental diseases given age, gender, and ethnicity.
