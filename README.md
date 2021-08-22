@@ -47,8 +47,8 @@ Due to limited access and availability of publicly database, we could not extend
 It could be interesting to include income, residential region, job status/type, and etc., into mental disease estimation.
 
 ## Team Members
-We are a team LockDown.  
-In lockdown, we all need a good *Cuddle*.  
+We are a team **LockDown**.  
+*"In lockdown level 4, a good Cuddle is all we need."*  
 
 Our members are,  
 [Jun Junghyun](https://www.linkedin.com/in/junjunghyun),  
