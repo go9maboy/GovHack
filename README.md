@@ -3,7 +3,7 @@
 
 ### Simple, Easy, and Friendly Support System That Reaching Out To You First
 
-<img src="Screen Shot.png" alt="AppScreenshot"/>
+<img src="Cuddle Screen Shot.png" alt="AppScreenshot"/>
 
 Cuddle is a mental health service that is design to guide our citizen to find a right service quickly and easily.
 
