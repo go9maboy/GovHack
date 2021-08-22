@@ -48,7 +48,7 @@ It could be interesting to include income, residential region, job status/type, 
 
 ## Team Members
 We are a team LockDown.  
-In lockdown, we all need a good Cuddle.  
+In lockdown, we all need a good *Cuddle*.  
 
 Our members are,  
 [Jun Junghyun](https://www.linkedin.com/in/junjunghyun),  
