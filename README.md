@@ -49,8 +49,8 @@ We are a team **LockDown**.
 
 Our members are,  
 [Jun Junghyun](https://www.linkedin.com/in/junjunghyun),  
-Ahn Joo-Hyun,  
-and Changeun Noah Song
+[Ahn Joo-Hyun](https://www.linkedin.com/in/joo-hyun-ahn),  
+and [Changeun Noah Song](https://www.linkedin.com/in/noahsong/)
 
 ## References
 We got lots of information from following links and publications
