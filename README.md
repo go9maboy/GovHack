@@ -11,6 +11,8 @@ The current Support System expects people to know their current mental status an
 
 In contrast, the Cuddle first estimates 5 most commonly occurring mental diseases based on the user's age, gender, and ethnicity. It displays the percentage of people in your group who are also suffering from similar diseases. This helps users to open up their feelings and emotion and encourage them to step out and try to get help. Knowing you are not alone could help users to increase their awareness and reducing their shamefulness. Based on the estimate, Cuddle recommends a simple customized survey to diagnose the disease better. Then, it finally provides the right support service to the patient.
 
+Try our demo [here](https://noahsong.github.io/cuddle/)
+
 ## Motivation
 In New Zealand, one in five people experiences depression at some stage in their life. One of my family members suffered severe depression. It is extremely common to feel depressed. Yet, it is often very hard to realize your current condition yourself. Even if you realize something is not right about your mental health, it is hard to get help due to lack of motivation, embarrassment, misunderstanding, and fear of the cost of treatment. We envision that we can help more people by predicting their potential mental diseases and show you are not the only one suffering from these. Then, we direct you to all freely available support or government-subsidized services that can help you to get over this mental disease and live your life again.
 
@@ -42,6 +44,9 @@ Used to extract the conditional probabilities of suffering from 17 listed mental
 ## Future works
 Due to limited access and availability of a public database, we could not extend our prediction beyond age, gender, and ethnicity.
 It could be interesting to include income, residential region, job status/type, and etc., into mental disease estimation.
+
+## Source Code
+You can find all our source code [here](https://github.com/NoahSong/cuddle.git)
 
 ## Team Members
 We are a team **LockDown**.  
