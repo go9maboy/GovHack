@@ -26,6 +26,14 @@ One is about Mental Health statistics. Another is about NZ age, gender, and ethn
 Mental Health provide us with the probability of age group given the disease.
 We have rearranged it to get probability of getting disease given the age group using Bayes' theorem and probability of age group from Census dataset.
 
+Drivation of Prob(disease|age,gender) as follow,  
+P(age,gender|disease) is provided from hospital recording.  
+since age and gender is independent,  
+P(age,gender|disease) = P(age|disease)P(gender|disease) = P(disease|age)P(age)/P(disease) * (P(disease|gender)P(gender)/P(disease)).  
+By rearrange above,  
+P(disease|age)P(disease|gender)P(age)P(gender)/P(disease)^2 = P(disease|age,gender)P(age)P(gender)/P(disease)^2  
+=> P(disease|age,gender) = P(age|disease)P(gender|disease)P(disease)^2/(P(age)P(gender))
+
 ### Used Dataset
 - 2018 Census population and dwelling counts:
 Used to obtain age group distribution, gender group distribution, and ethnic group distribution in NZ. Used those and health datasets to calculate the probability of suffering from mental diseases given age, gender, and ethnicity.
